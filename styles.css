@@ -1,0 +1,22 @@
+#submit {
+    color: darkred;
+    background-color: black;
+    width: 50%;
+    height: 30%;
+    border-radius: 11px;
+    border: 2px solid black; 
+    cursor: pointer;
+}
+.container{
+    text-align: center;
+    margin-bottom: 35px;
+}    
+body{
+    background-image: url(../html/resources/Arial\ of\ Paris.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+html{
+    height: 100%;
+}
